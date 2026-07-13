@@ -1,0 +1,43 @@
+{
+  "search_center": {
+    "latitude": 45.5158589,
+    "longitude": -122.6821844,
+    "description": "Downtown Portland, OR (near Oregon Historical Society)"
+  },
+  "search_radius_meters": 5000,
+  "total_stations_found": 27,
+  "stations": [
+    {"id": "7278420508", "name": "Unnamed", "lat": 45.5174746, "lon": -122.680112, "distance_m": 242, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "4753977822", "name": "Unnamed", "lat": 45.5153092, "lon": -122.6782222, "distance_m": 315, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "11246283833", "name": "Tesla Supercharger", "lat": 45.51844, "lon": -122.68045, "distance_m": 317, "operator": "Tesla", "connectors": ["nacs"], "power": "250kW", "access": "customers"},
+    {"id": "7278420507", "name": "Blink", "lat": 45.5187165, "lon": -122.6761838, "distance_m": 565, "operator": "Blink", "connectors": [], "access": "public"},
+    {"id": "10144741321", "name": "Unnamed", "lat": 45.5121791, "lon": -122.6769047, "distance_m": 580, "operator": "Unknown", "connectors": [], "access": "customers"},
+    {"id": "7278416012", "name": "Blink", "lat": 45.5154353, "lon": -122.674201, "distance_m": 624, "operator": "Blink", "connectors": [], "access": "public"},
+    {"id": "7278416011", "name": "Unnamed", "lat": 45.5161175, "lon": -122.6739227, "distance_m": 644, "operator": "Unknown", "connectors": ["J-1772", "CCS/SAE", "CHAdeMO"], "access": "public"},
+    {"id": "10272244809", "name": "ChargePoint", "lat": 45.5113085, "lon": -122.6763146, "distance_m": 682, "operator": "ChargePoint", "connectors": [], "access": "public"},
+    {"id": "10272259309", "name": "Unnamed", "lat": 45.511037, "lon": -122.6765733, "distance_m": 692, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "7278420506", "name": "Blink", "lat": 45.5174493, "lon": -122.673031, "distance_m": 735, "operator": "Blink", "connectors": [], "access": "public"},
+    {"id": "5661712861", "name": "Unnamed", "lat": 45.5084074, "lon": -122.6646737, "distance_m": 1596, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "13667488101", "name": "Blink", "lat": 45.5076735, "lon": -122.6652909, "distance_m": 1600, "operator": "Blink", "connectors": [], "access": "private"},
+    {"id": "3402847523", "name": "Unnamed", "lat": 45.5011777, "lon": -122.6785808, "distance_m": 1657, "operator": "OpConnect", "connectors": [], "access": "public"},
+    {"id": "10727045522", "name": "Unnamed", "lat": 45.5332034, "lon": -122.6681887, "distance_m": 2216, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "10726950367", "name": "EVgo", "lat": 45.5338648, "lon": -122.6954513, "distance_m": 2253, "operator": "EVgo", "connectors": ["chademo", "type1_combo"], "power": "480V", "access": "public"},
+    {"id": "4259516688", "name": "Blink", "lat": 45.5345762, "lon": -122.659838, "distance_m": 2713, "operator": "Blink", "connectors": ["type1"], "power": "240V", "access": "public"},
+    {"id": "9993486944", "name": "Unnamed", "lat": 45.5382399, "lon": -122.707803, "distance_m": 3190, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "6284849689", "name": "Blink", "lat": 45.5328936, "lon": -122.635974, "distance_m": 4068, "operator": "Blink", "connectors": [], "access": "yes",
+    "id": "12944744148", "name": "Tesla Supercharger", "lat": 45.53365, "lon": -122.636, "distance_m": 4106, "operator": "Tesla", "connectors": ["nacs"], "power": "250kW", "access": "yes"},
+    {"id": "3474039289", "name": "Blink", "lat": 45.4798785, "lon": -122.694154, "distance_m": 4108, "operator": "Blink", "connectors": [], "access": "public"},
+    {"id": "9200882406", "name": "Blink", "lat": 45.4968642, "lon": -122.635115, "distance_m": 4233, "operator": "Blink", "connectors": ["type1"], "power": "240V", "access": "public"},
+    {"id": "9294979145", "name": "EVgo", "lat": 45.5348039, "lon": -122.6327575, "distance_m": 4389, "operator": "EVgo", "connectors": ["chademo", "type1_combo"], "access": "public"},
+    {"id": "10588856736", "name": "Electrify America", "lat": 45.5135072, "lon": -122.624106, "distance_m": 4533, "operator": "Electrify America", "connectors": ["chademo", "type1_combo"], "power": "150kW CCS max", "access": "public"},
+    {"id": "13428336910", "name": "Tesla Supercharger", "lat": 45.4860142, "lon": -122.7223776, "distance_m": 4564, "operator": "Tesla", "connectors": ["nacs"], "power": "325kW", "access": "yes"},
+    {"id": "5225727069", "name": "Unnamed", "lat": 45.5163056, "lon": -122.622074, "distance_m": 4684, "operator": "Unknown", "connectors": [], "access": "public"},
+    {"id": "8663908869", "name": "Electric Island", "lat": 45.5572886, "lon": -122.7032105, "distance_m": 4889, "operator": "Unknown (multi-vendor)", "connectors": ["ABB", "ChargePoint", "BTC", "Proterra"], "power": "up to 150kW (350kW planned)", "access": "public"},
+    {"id": "10758441961", "name": "Unnamed", "lat": 45.4915493, "lon": -122.6257125, "distance_m": 5165, "operator": "Unknown", "connectors": [], "access": "private"}
+  ],
+  "destination": {
+    "latitude": 45.4871723,
+    "longitude": -122.80378,
+    "description": "Beaverton, OR"
+  }
+}
